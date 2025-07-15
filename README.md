@@ -16,13 +16,6 @@ A full-stack travel blogging platform featuring:
 - Social features (following, likes, comments)
 - Built with **Node.js, React, SQLite3**
 
-### 🚚 FastTrack Logistics Management System
-A Java Swing application for logistics automation featuring:
-- Shipment & driver management
-- Real-time tracking system
-- Automated notifications
-- Built with **Java, Swing, MySQL**
-
 ## 💻 Tech Stack
 
 **Backend Development**  
